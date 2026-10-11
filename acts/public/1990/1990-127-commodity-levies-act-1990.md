@@ -1,0 +1,909 @@
+---
+title: Commodity Levies Act 1990
+identifier: act_public_1990_127
+number: 1990 No 127
+type: act
+subtype: Public Act
+jurisdiction: nz
+language: en
+date: 1990-09-07
+last_amended: 2022-09-01
+status: in_force
+source: https://www.legislation.govt.nz/act/public/1990/127/en/latest/
+archived_source: https://web.archive.org/web/20260321085450/https://legislation.govt.nz/act/public/1990/127/en/latest/
+archived: 2026-03-21
+retrieved: 2026-10-11
+administered_by: Ministry for Primary Industries
+---
+
+# Commodity Levies Act 1990
+
+## Note
+
+The Parliamentary Counsel Office has made editorial and format changes to this version using the powers under subpart 2 of Part 3 of the Legislation Act 2019.
+
+Note 4 at the end of this version provides a list of the amendments included in it.
+
+This Act is administered by the Ministry for Primary Industries.
+
+An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
+
+## 1 Short Title and commencement
+
+**(1)** This Act may be cited as the Commodity Levies Act 1990.
+
+**(2)** This Act shall come into force on the 28th day after the day on which it receives the Royal assent.
+
+## 2 Interpretation
+
+**(1)** In this Act, unless the context otherwise requires,—
+
+**agricultural product** means a product of the cultivation of the soil
+
+**animal** means any member of the animal kingdom; and includes a bacterium and a virus
+
+**auditor** means a person for the time being appointed under subsection (1) or subsection (2) of section 15
+
+**commodity** means any agricultural, farmed, forestry, horticultural, mineral, or wild product
+
+**farmed product** means a product that is, or is part of or produced by, animals farmed, fattened, kept, raised, or used, for the purpose of—
+
+(a) the production of the product (whether the production of the product is a principal, subsidiary, or incidental purpose); or
+
+(b) the production of some other farmed product;—
+
+and includes beeswax, honey, and honeydew
+
+**forestry product** means a product that is, or is part of or produced by, trees
+
+**hold** includes cause to be held
+
+**horticultural product** means a product that is, or is part of or produced by, plants grown or growing—
+
+(a) in gardens, greenhouses, shadehouses, or orchards; or
+
+(b) hydroponically
+
+**industry organisation** means a body corporate to which a levy is payable under a levy order; and, in relation to—
+
+(a) a levy order; or
+
+(b) a commodity on which a levy is imposed by a levy order,—
+
+means the industry organisation to which the levy concerned is payable under the order
+
+**levy order** means an order under section 4
+
+**mineral product** means a product that is, or is refined or extracted from, minerals (whether the minerals concerned are, or are found in or beneath,—
+
+(a) land or water; or
+
+(b) the bed of the sea, or of any stream, river, or lake)
+
+**Minister** means a Minister of the Crown
+
+**participant**, in relation to a support referendum, means a potential levy payer who returned, in accordance with the requirements of the organisation holding the referendum, a ballot paper—
+
+(a) whether completed or not; and
+
+(b) if completed, whether completed validly or invalidly,—
+
+distributed or made available for the purpose by or on behalf of that organisation
+
+**plant** means any member of the plant kingdom; and includes an alga and a fungus
+
+**potential levy payer**, in relation to a support referendum, means a person who, when the referendum is held, would be one of the persons primarily responsible for paying the proposed levy to which the referendum relates if there were then in force a levy order imposing that levy
+
+**support referendum** means a referendum on whether to approve a proposal that a levy, payable to an organisation, should be imposed on a commodity
+
+**supporter**, in relation to a support referendum, means a participant who returned a valid ballot paper supporting the imposition of the levy concerned
+
+**thing** includes any place, premises, or site, (for example an apiary)
+
+**wild product** means an animal or plant product (whether fossilised or not) that is—
+
+(a) gathered or harvested; or
+
+(b) part of or produced by an animal or plant captured, gathered, harvested, or killed,—
+
+in farms, forests, gardens, orchards, waters, or the wild.
+
+**(2)** For the avoidance of doubt, it is hereby declared that a commodity may belong to 2 or more of the following classes of commodity: agricultural product, farmed product, forestry product, horticultural product, mineral product, and wild product.
+
+**(3)** Where an industry organisation acquires or builds up any asset with, out of, or by virtue of spending, money paid to it under a levy order as levy, this Act shall have effect—
+
+(a) in relation to any other asset it acquires in exchange or part exchange for that asset, as if that other asset has also been acquired or built up with, out of, or by virtue of spending, money paid as a levy; and
+
+(b) in relation to any money it acquires in exchange or part exchange for that asset, as if that money has been paid to the organisation under a levy order as levy.
+
+**(4)** \[Repealed\]
+
+> Section 2(1) **hold**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 2(1) **participant**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 2(1) **potential levy payer**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 2(1) **support referendum**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 2(1) **supporter**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 2(1) **thing**: inserted, on 15 December 1995, by section 2 of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 2(4): repealed, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021 (2021 No 7).
+
+## 2A Transitional, savings, and related provisions
+
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
+> Section 2A: inserted, on 17 December 2016, by section 17 of the Statutes Amendment Act 2016 (2016 No 104).
+
+## 3 Act binds the Crown
+
+This Act binds the Crown.
+
+## Part 1 Levy orders
+
+### 4 Governor-General may impose levy
+
+**(1)** Subject to section 5, the Governor-General may from time to time, on the recommendation of a Minister, by Order in Council impose on a commodity a levy payable to a body corporate.
+
+**(2)** An order under this section—
+
+(a) is secondary legislation (*see* Part 3 of the Legislation Act 2019 for publication requirements); and
+
+(b) must be confirmed by an Act (*see* subpart 3 of Part 5 of the Legislation Act 2019).
+
+<table><tr><td colspan="5"><strong>Legislation Act 2019 requirements for secondary legislation made under this section</strong></td></tr><tr><td><strong>Publication</strong></td><td></td><td>PCO must publish it on the legislation website and notify it in the <em>Gazette</em></td><td></td><td>LA19 s 69(1)(c)</td></tr><tr><td><strong>Presentation</strong></td><td></td><td>The Minister must present it to the House of Representatives</td><td></td><td>LA19 s 114, Sch 1 cl 32(1)(a)</td></tr><tr><td><strong>Disallowance</strong></td><td></td><td>It may be disallowed by the House of Representatives</td><td></td><td>LA19 ss 115, 116</td></tr><tr><td colspan="5"><em>This note is not part of the Act.</em></td></tr></table>
+
+> Section 4(2): inserted, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021 (2021 No 7).
+
+### 5 Restrictions on making of orders
+
+**(1)** No Minister shall recommend the making of a levy order, unless the body corporate to which the levy is to be payable (in subsection (2) referred to as an applicant organisation) has—
+
+(a) asked the Minister to do so; and
+
+(b) given the Minister a written plan showing how the levy collected in the first full year of collection would be spent.
+
+**(2)** No Minister shall recommend the making of a levy order imposing on any commodity a levy payable to an applicant organisation, unless the Minister is satisfied, on the basis of information and evidence satisfactory to the Minister,—
+
+(aa) that—
+
+(i) within the previous 12 months; or
+
+(ii) within the previous 18 months, and before the commencement of the Commodity Levies Amendment Act 1993,—
+
+the organisation has held a support referendum in relation to a proposal that the levy, payable to the organisation, should be imposed on the commodity; and
+
+(ab) that the support referendum was competently devised; and
+
+(ac) that the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) to be specified in a levy order, and (in particular) indicated that the imposition of the levy was proposed to be on the basis of one of the following:
+
+(i) production of the commodity:
+
+(ii) the value of the commodity produced:
+
+(iii) the area of land devoted to the production of the commodity:
+
+(iv) the number, quantity, or capacity, of a thing or things of a specified kind used in connection with the production of the commodity, for example,—
+
+(A) the number of breeding stock, chicks, embryos, hives, or trees; or
+
+(B) the quantity of electricity; or
+
+(C) the capacity of plant or buildings; and
+
+(ad) that the support referendum was so publicised that potential levy payers had a reasonable opportunity to be adequately informed about its holding, nature, and possible consequences; and
+
+(ae) that the support referendum was so held that potential levy payers were given a reasonable opportunity to participate in it; and
+
+(af) that the voting in the support referendum was conducted on the basis of one of the matters specified in subparagraphs (i) to (iv) of paragraph (ac) (but not necessarily the matter that the ballot paper indicated was the proposed basis of the levy’s imposition); and
+
+(ag) that more than half of the participants in the support referendum were supporters; and
+
+(ah) where voting in the support referendum was conducted on the basis of production of the commodity, that during the 12 months before the support referendum was held the total amount of the commodity produced by supporters was more than half of the total amount of the commodity produced of all participants; and
+
+(ai) where voting in the support referendum was conducted on the basis of the value of the commodity, that during the 12 months before the support referendum was held the value of the total amount of the commodity produced by supporters was more than half of the value of the total amount of the commodity produced of all participants; and
+
+(aj) where voting in the support referendum was conducted on the basis of the area of land devoted to the production of the commodity, that during the 12 months before the support referendum was held the total area of land devoted to the production of the commodity by supporters was more than half of the total area of land devoted to the production of the commodity by all participants; and
+
+(ak) where voting in the support referendum was conducted on the basis of the number, quantity, or capacity, or a thing or things of a specified kind used in connection with the production of the commodity, that during the 12 months before the support referendum was held the total number of those things, quantity of that thing, or capacity of those things, used in connection with the production of the commodity by supporters was more than half of the total number, quantity, or capacity of that thing or those things so used by all participants; and
+
+(al) where the basis on which voting in the support referendum was conducted was not the proposed basis of the levy’s imposition, that the impact of imposing the levy on that proposed basis will be substantially similar to the impact of imposing it on the basis on which voting was conducted; and
+
+(am) that the matters specified in the order pursuant to section 6(1) do not differ in any material way from those specified in the ballot paper pursuant to paragraph (ac); and
+
+(a) that the organisation has consulted adequately persons (other than persons entitled to participate in the support referendum) likely to be affected by the payment or collection of the levy; and
+
+(b) \[Repealed\]
+
+(c) \[Repealed\]
+
+(d) \[Repealed\]
+
+(e) \[Repealed\]
+
+(f) \[Repealed\]
+
+(g) that—
+
+(i) persons opposing the levy’s imposition on the commodity; and
+
+(ii) other organisations (if any) representing or purporting to represent the interests of the persons who are to be primarily responsible for paying the levy, or any of them,—
+
+have had a reasonable opportunity to put their views to the Minister; and
+
+(h) that the Minister has had due regard to all views put to the Minister about the proposed imposition of the levy on the commodity; and
+
+(i) that the uses to which the levy will be put will be closely related to the interests of the persons who will be primarily responsible for paying it; and
+
+(j) that overall, the benefits to the persons who will be primarily responsible for paying the levy of the spending for the purposes specified in the order of the amount of levy likely to be raised will outweigh the disadvantages to them of the imposition, collection, and payment of the levy on the commodity; and
+
+(k) if the levy is imposed on quantities of the commodity imported into New Zealand that—
+
+(i) the importers will benefit from the spending of the levy; and
+
+(ii) the organisation will have regard to the importers’ views on the spending of the levy; and
+
+(iii) the imposition of the levy on imported commodity will not be contrary to New Zealand’s international legal obligations; and
+
+(l) that the organisation, by virtue of its membership and structure, represents adequately the views and interests of the persons who will be primarily responsible for paying the levy; and
+
+(m) either—
+
+(i) that it would be impossible or impracticable to finance the doing out of voluntary levies of the things for which the levy is to be spent; or
+
+(ii) that if the doing of the things for which the levy is to be spent were paid for out of voluntary levies, persons who chose not to pay those levies would derive unearned benefits from the doing of those things; and
+
+(n) that the organisation has or will have in place adequate systems for accounting to persons who will be primarily responsible for paying the levy of its receipt and expenditure (including, in particular, the uses to which it will be put); and
+
+(o) that all other relevant matters known to the Minister have been properly considered.
+
+> Section 5(2)(aa): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ab): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ac): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ad): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ae): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(af): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ag): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ah): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ai): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(aj): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(ak): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(al): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(am): inserted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(a): substituted, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(b): repealed, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(c): repealed, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(d): repealed, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(e): repealed, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+> Section 5(2)(f): repealed, on 29 September 1993, by section 2(1) of the Commodity Levies Amendment Act 1993 (1993 No 151).
+
+### 6 Matters to be specified in orders
+
+**(1)** Every levy order imposing on any commodity a levy payable to any industry organisation shall specify—
+
+(a) the organisation; and
+
+(b) the commodity; and
+
+(c) the persons primarily responsible for paying the levy; and
+
+(d) the basis on which the amount of the levy is to be calculated or ascertained; and
+
+(e) the persons (if any) to be exempt from paying the levy; and
+
+(f) that—
+
+(i) in all cases the levy is to be paid by the persons primarily responsible for paying it; or
+
+(ii) in all cases the levy is to be paid by persons other than those primarily responsible for paying it, but recoverable by them from those primarily responsible; or
+
+(iii) in some cases the levy is to be paid by the persons primarily responsible for paying it; and in some cases the levy is to be paid by persons other than those primarily responsible for paying it, but recoverable by them from those primarily responsible; and
+
+(g) to the extent that the levy is to be paid by persons other than those primarily responsible for paying it, but recoverable by them from those primarily responsible,—
+
+(i) the persons who are to pay it; and
+
+(ii) their duties; and
+
+(iii) the means by which they may recover it; and
+
+(h) the extent (if any) to which any persons, or persons of any class or description, are to refrain from disclosing information (or information of any class or description) obtained, or obtained as a result of actions undertaken,—
+
+(i) under the order; or
+
+(ii) in relation to the order, under this Act; and
+
+(i) subject to section 10, either—
+
+(i) how the organisation is to spend the levy; or
+
+(ii) a means by which the organisation is to consult the persons primarily responsible for paying it as to how the organisation is to spend it; and
+
+(j) whether the levy must be spent by the organisation, or may be paid to and spent by branches or subsidiaries of the organisation; and
+
+(k) the periods in respect of which the levy is to be paid; and
+
+(l) whether the levy is to be paid at a single rate or 2 or more different rates; and if at different rates, the things (whether—
+
+(i) different classes or descriptions of the commodity; or
+
+(ii) different things of a specified kind, connected with the production of the commodity, on the basis of which the levy is imposed)—
+
+to which the different rates may apply; and
+
+(m) in respect of each rate of levy, one of the following:
+
+(i) a maximum rate of levy, with the organisation empowered to set the actual rate:
+
+(ii) a maximum amount by which the organisation may increase the rate of the levy in any specified period, with the initial rate of the levy to be fixed by the organisation with the approval of a Minister, and later rates to be fixed by the organisation either with the approval of a Minister or within the maximum:
+
+(iii) the rate for a period, being either a rate fixed by the organisation and not higher than the rate last fixed, or a higher rate fixed by a Minister on the recommendation of the organisation; and
+
+(n) how the rates of the levy are to be notified; and
+
+(o) if the levy is to be paid by persons not primarily responsible for paying it and recovered by them from the persons primarily responsible,—
+
+(i) whether or not the persons not primarily responsible are entitled to charge the organisation a fee for paying and recovering it; and
+
+(ii) if so, the amount of the fee, or a means by which its amount may be calculated or ascertained; and
+
+(p) how often the levy is to be paid; and
+
+(q) the due and latest days, or a means for ascertaining the due and latest days, for payment of the levy.
+
+**(2)** Subject to subsection (3), a levy order imposing on any commodity a levy payable to any industry organisation may prescribe all or any of the following matters:
+
+(a) general purposes for which the levy is to be spent:
+
+(b) maximum and minimum amounts of levy payable:
+
+(c) if the levy is payable on a basis that relates to quantities of the commodity,—
+
+(i) subject to subsection (4), whether or not the levy applies to quantities imported into New Zealand; and
+
+(ii) if so, subject to subsection (5), whether the levy is payable in respect of the imported commodity at a rate that is the same as the rate applying to the commodity produced in New Zealand, or at a lower rate:
+
+(d) the making of returns (whether by producers of a commodity or other persons) to the organisation or some other person or body, for the purpose of enabling or assisting the determination of amounts of levy payable:
+
+(e) circumstances in which, and conditions subject to which, persons may be allowed extensions of time for the payment of any amount of levy:
+
+(f) the payment of additional or increased levy when amounts of levy otherwise payable have been paid late or not paid at all.
+
+**(3)** No Minister shall recommend the making of a levy order imposing a levy on any commodity unless satisfied that the spending of the levy in accordance with the order would not be, and would not be able to be, contrary to New Zealand’s international legal obligations.
+
+**(4)** No Minister shall recommend the making of a levy order imposing a levy on a commodity and prescribing that the levy applies to quantities of the commodity imported into New Zealand, unless the Minister is satisfied, on the basis of information and evidence satisfactory to the Minister, that unless the levy applies to imported commodity, exporters or importers of imported product, or other persons acquiring or dealing with imported product, will derive unearned benefits from the expenditure of the levy.
+
+**(5)** No Minister shall recommend the making of a levy order imposing a levy on a commodity and prescribing that the levy applies to quantities of the commodity imported into New Zealand, unless the Minister is satisfied, on the basis of information and evidence satisfactory to the Minister, that the rate of levy on imported product provided for in the order cannot be greater than the rate necessary to ensure that exporters or importers of imported product, or other persons acquiring or dealing with imported product, will not derive unearned benefits from the expenditure of the levy.
+
+> Section 6(1)(f): substituted, on 15 December 1995, by section 3(1) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 6(1)(g): amended, on 15 December 1995, by section 3(2) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+### 7 Effect of orders
+
+**(1)** Where a levy order has been made imposing on any commodity a levy payable to any industry organisation, the following provisions shall, in accordance with the order, apply:
+
+(a) every person responsible for paying the levy to the organisation shall do so:
+
+(b) the organisation may recover the levy from any person responsible for paying it to the organisation—
+
+(i) by deducting it from any amount the organisation owes the person; or
+
+(ii) as a debt due in any court of competent jurisdiction:
+
+(c) where a person responsible for paying the levy to the organisation—
+
+(i) is not primarily responsible for paying any amount of the levy; but
+
+(ii) is required to deduct that amount from any amount the person owes the person primarily responsible, and pay it to the organisation,—
+
+notwithstanding any rule of law to the contrary, the amount deducted or (if the larger amount from which it is required to be deducted is still in the person’s possession) required to be deducted shall, until it has been paid to the organisation, be deemed to be money held in trust for the organisation:
+
+(d) where a person responsible for paying the levy to the organisation—
+
+(i) is not primarily responsible for paying any amount of the levy; and
+
+(ii) is required to deduct that amount from any amount the person owes the person primarily responsible, and pay it to the organisation; and
+
+(iii) fails to make the full deduction required before paying the amount owed to the person who is owed it,—
+
+the organisation may recover from the person to whom or which the other amount was paid the amount of the deduction that should have been made, as if the person is a person responsible for paying it to the organisation:
+
+(e) where a person who has paid the levy to the organisation is not the person primarily responsible for paying it, the former may recover the amount paid from the latter—
+
+(i) by deducting it from any amount the former owes the latter; or
+
+(ii) as a debt due in any court of competent jurisdiction.
+
+**(2)** Nothing in a levy order limits or prevents the provision of information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
+
+> Section 7(2): inserted, on 1 September 2022, by section 107(1) of the Data and Statistics Act 2022 (2022 No 39).
+
+### 8 Conscientious objectors
+
+Every levy order shall make special provision for the payment of amounts of levy by persons who object on conscientious or religious grounds to paying it in the manner otherwise provided for in the order.
+
+### 9 Financial provisions
+
+Where a levy order has imposed a levy payable to an industry organisation,—
+
+(a) the organisation shall open 1 or more bank accounts for the purpose of the levy, and shall use that account or those accounts for the following purposes only:
+
+(i) the deposit of amounts of levy paid or recovered:
+
+(ii) making payments out of levy:
+
+(b) only people for the time being expressly authorised by the organisation shall be capable of operating the account or accounts:
+
+(c) no money shall be paid out of the account or accounts except for a purpose or purposes authorised by the order or this Act.
+
+### 10 Use of levy
+
+**(1)** No industry organisation shall spend any amount of levy for any commercial or trading activity.
+
+**(2)** Subject to section 6(3), in specifying how a levy is to be spent, or a means by which an industry organisation is to ascertain how it may be spent, a levy order—
+
+(a) may specify any purpose or purposes for which no amount of levy shall be spent:
+
+(b) subject to subsection (1) and paragraph (a), may specify all or any of the following purposes:
+
+(i) research relating to the commodity or commodities concerned, or in relation to any matter connected with it (including market research):
+
+(ii) the development of products derived from the commodity or commodities concerned:
+
+(iii) the development of markets for the commodity or commodities, or products derived from the commodity or commodities:
+
+(iv) the promotion (including generic advertising) of the industry concerned, the commodity or commodities, or products derived from the commodity or commodities:
+
+(v) the protection or improvement of the health of animals or plants that are, or parts of which are, or from or by which is or are produced or gathered, the commodity or commodities concerned:
+
+(vi) the development or implementation of plans or programmes of quality assurance (relating or relevant to the commodity or commodities concerned):
+
+(vii) education, information, promotion, or training, (relating or relevant to the commodity or commodities concerned):
+
+(viii) day to day administration of the organisation’s activities (not being the administration, direct or indirect, of any commercial or trading activity undertaken by the organisation or on its behalf):
+
+(ix) any other purpose the Minister thinks fit.
+
+**(3)** Subsection (2)(b) of this section does not limit the generality of section 6(2)(a).
+
+**(4)** An industry organisation may, with the written approval of a Minister, and subject to the conditions (if any) subject to which the approval was given, spend any amount of a levy it has imposed pursuant to a levy order for a purpose prohibited by subsection (1) or by the order.
+
+**(5)** The Minister shall not give an approval under subsection (4) unless satisfied that—
+
+(a) the spending of money for the purpose concerned will benefit most of the persons primarily responsible for the payment of the levy concerned; and
+
+(b) if some members of the industry spend money for the purpose, other members who have not done so will derive unearned benefits from the expenditure; and
+
+(c) persons who, together, are primarily responsible for paying considerably more than half the amount of the levy concerned each year support the spending of money for the purpose.
+
+**(6)** Nothing in subsection (1) prevents an industry organisation from—
+
+(a) using any part of a levy for buying limited quantities of the commodity or commodities concerned, or of any product made from it or them, if those quantities are bought for 1 or more of the following purposes: promotion, research, education, product development, and market development; or
+
+(b) reselling (with or without modification or processing) all or any part of any limited quantity of the commodity or commodities bought for 1 or more of those purposes.
+
+**(7)** Nothing in subsection (1) prevents an industry organisation from—
+
+(a) using any part of a levy to undertake or pay for the undertaking of any promotion, research, product development, or market development, undertaken with the intention of achieving commercial or financial benefits; or
+
+(b) exploiting commercially (otherwise than by the use of any part of a levy) the results of any promotion, research, or development, for whose undertaking any part of a levy was (whether with or without the intention of achieving commercial or financial benefits) used or paid; or
+
+(c) using any part of a levy to undertake or pay for the undertaking of the publication or sale of any educational, informative, or promotional material, (whether or not at a profit); or
+
+(d) investing any part of a levy, pending its expenditure.
+
+### 11 Resolution of disputes
+
+Every levy order shall provide for—
+
+(a) the appointment of mediators to resolve disputes as to—
+
+(i) whether or not any person is required to pay the levy concerned:
+
+(ii) the amount of levy any person is required to pay; and
+
+(b) the procedures to be followed by mediators; and
+
+(c) remuneration of mediators; and
+
+(d) the payment of costs in relation to mediation; and
+
+(e) a right of appeal to a District Court Judge against decisions of mediators; and
+
+(f) any other matters relating to the resolution of such disputes.
+
+### 12 Minister must indicate whether orders to continue in force
+
+**(1)** The Minister on whose recommendation a levy order was made must indicate the Minister’s intentions with regard to the levy order continuing in force by publishing a notice in the *Gazette* at least 6 months before the deadline that applies under subpart 3 of Part 5 of the Legislation Act 2019 (the **6-month date**).
+
+**(2)** However, subsection (1) does not apply if the levy order has already been revoked, disallowed under subpart 2 of Part 5 of the Legislation Act 2019, or confirmed by an Act before the 6-month date.
+
+> Section 12: replaced, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021 (2021 No 7).
+
+### 13 Levy orders in force no more than 6 years unless extended
+
+**(1)** A levy order is in force for a period of 6 years and, unless extended under subsection (2) or sooner revoked, is revoked at the end of that 6-year period.
+
+**(2)** The Governor-General may extend the period for which a levy order is in force by a specified period of not more than 5 years by Order in Council made—
+
+(a) on the recommendation of a Minister, given after complying with the requirements of section 5 (except section 5(1)(b)); and
+
+(b) at least 12 months before the levy order would otherwise be revoked.
+
+**(3)** The Governor-General may make multiple Orders in Council under subsection (2) in respect of the same levy order.
+
+**(4)** Section 12 applies to a levy order that is extended under subsection (2) as if the extension is the making of the order.
+
+**(5)** An order under subsection (2)—
+
+(a) is secondary legislation (*see* Part 3 of the Legislation Act 2019 for publication requirements); and
+
+(b) must be confirmed by an Act (*see* subpart 3 of Part 5 of the Legislation Act 2019).
+
+<table><tr><td colspan="5"><strong>Legislation Act 2019 requirements for secondary legislation made under this section</strong></td></tr><tr><td><strong>Publication</strong></td><td></td><td>PCO must publish it on the legislation website and notify it in the <em>Gazette</em></td><td></td><td>LA19 s 69(1)(c)</td></tr><tr><td><strong>Presentation</strong></td><td></td><td>The Minister must present it to the House of Representatives</td><td></td><td>LA19 s 114, Sch 1 cl 32(1)(a)</td></tr><tr><td><strong>Disallowance</strong></td><td></td><td>It may be disallowed by the House of Representatives</td><td></td><td>LA19 ss 115, 116</td></tr><tr><td colspan="5"><em>This note is not part of the Act.</em></td></tr></table>
+
+> Section 13: replaced, on 17 December 2016, by section 18 of the Statutes Amendment Act 2016 (2016 No 104).
+
+> Section 13(5): inserted, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021 (2021 No 7).
+
+## Part 2 Miscellaneous provisions
+
+### 14 Levy orders to provide for records to be kept
+
+For the purpose of ascertaining whether or not a levy order is being complied with, the order shall provide for—
+
+(a) the keeping of accounts and records of specified classes or descriptions by industry organisations, persons collecting levies, and persons who are or may be liable to pay the levy concerned, or any of them; and
+
+(b) any such records to be retained for a specified period.
+
+### 15 Compliance audits
+
+**(1)** While a levy order is in force, the Minister who recommended its making may, at the request of the industry organisation, appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
+
+(a) some or all of the persons collecting the levy:
+
+(b) some or all of the persons who are or may be liable to pay the levy (whether or not as persons primarily responsible for paying it):
+
+(c) both.
+
+**(2)** While a levy order is in force, the Minister who recommended its making may, if a mediator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of the affairs of all or any of the persons involved in the dispute.
+
+**(3)** No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+
+**(4)** No officer or employee of any of the following persons or organisations shall be appointed an auditor:
+
+(a) any industry organisation:
+
+(b) any person engaged in the collection of levies under the levy order concerned:
+
+(c) any person who is or may be liable to pay a levy under the levy order concerned.
+
+**(5)** Every person appointed as an auditor shall be entitled to remuneration (paid by the industry organisation concerned) as provided in the relevant levy order.
+
+> Section 15(3): replaced, on 1 April 2014, by section 126 of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+### 16 Purpose of compliance audits
+
+**(1)** The purpose of an audit conducted by an auditor appointed under section 15(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister on, as many of the following matters as are relevant to those affairs:
+
+(a) the extent to which persons required to pay the levy concerned are doing and have done so:
+
+(b) the extent to which appropriate amounts of the levy concerned are being and have been paid:
+
+(c) the extent to which appropriate amounts of the levy concerned are being and have been collected:
+
+(d) the extent to which appropriate amounts of the levy concerned are being and have been paid over to the organisation by persons collecting it:
+
+(e) the extent to which accounts and records are being and have been kept:
+
+(f) the extent to which accounts and records that are being and have been kept are being and have been properly kept.
+
+**(2)** The purpose of an audit conducted by an auditor appointed under section 15(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the mediator concerned, the Minister, and those parties, on matters of fact that are in dispute.
+
+### 17 Power of auditors to require production of records
+
+**(1)** For the purposes of conducting an audit, any auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being an industry organisation, a person collecting levies, a person who is or may be liable to pay levies, or any employee or officer of an industry organisation or any such person) to produce for inspection within a reasonable period specified by the auditor any records or accounts in the possession or under the control of that person (being records or accounts that are required to be kept under this Act or by a levy order), and may take copies of or extracts from any such document.
+
+**(2)** Every authorisation under subsection (1) shall contain—
+
+(a) a reference to this section; and
+
+(b) the full name of the auditor; and
+
+(c) a statement of the powers conferred on the auditor by subsection (1).
+
+**(3)** Subject to section 16(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no auditor who exercises powers under this section shall disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the auditor as a result of the exercise of the power.
+
+**(4)** Notwithstanding subsection (3), the Official Information Act 1982 applies in respect of any information held by a Minister that was obtained pursuant to this section.
+
+### 18 Assessment of performance of industry organisations
+
+**(1)** In this section, **performance**, in relation to an industry organisation to which a levy is payable under a levy order, means all or any of the following matters:
+
+(a) the extent to which the organisation may or may not be complying or have complied with the order and (in relation to the order) this Act:
+
+(b) the extent to which the organisation may or may not be using or have used the amounts of the levy paid to it efficiently and economically:
+
+(c) the extent to which the uses to which the organisation is putting and has put the amounts of the levy paid to it may or may not benefit (or, as the case may be, have or have not benefited) the persons primarily responsible for paying it.
+
+**(2)** If—
+
+(a) satisfied that there is sufficient concern among the persons primarily responsible for paying a levy under a levy order about the performance of the industry organisation to justify an assessment of that performance; or
+
+(b) not satisfied that the performance of an industry organisation under a levy order is adequate,—
+
+the Minister may appoint any person to conduct an assessment of, and report to the Minister on, that performance.
+
+**(3)** For the purpose of conducting an assessment, a person appointed under subsection (2) has, and may exercise and perform, all the powers of an auditor under section 17; and sections 15(5) and 24 shall apply accordingly.
+
+**(4)** Within 28 days of receiving a report under subsection (2), the Minister shall give a copy to the industry organisation concerned.
+
+### 19 Power of search
+
+**(1)** An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise every constable and designated person to search the place.
+
+**(2)** Subject to subsection (2A), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+
+**(2A)** Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+
+**(3)** In this section a **designated person** means a person (being an auditor or a person employed in the public service) who is for the time being—
+
+(a) designated by a Minister as a person who may exercise powers of search under this Act; or
+
+(b) a member of a class of person designated by the Minister as persons who may exercise powers of search under this Act.
+
+**(4)** No person or class of person shall be designated under subsection (3), unless the Minister concerned is satisfied that the person, or persons of that class, is or are suitably qualified and trained to exercise the powers of a designated person.
+
+> Section 19(1): amended, on 26 March 2015, by section 4 of the Commodity Levies Amendment Act 2015 (2015 No 10).
+
+> Section 19(1): amended, on 1 October 2012, by section 211(2)(a) of the Search and Surveillance Act 2012 (2012 No 24).
+
+> Section 19(1): amended, on 1 October 2012, by section 211(2)(b) of the Search and Surveillance Act 2012 (2012 No 24).
+
+> Section 19(1): amended, on 1 October 2008, pursuant to section 116(a)(ii) of the Policing Act 2008 (2008 No 72).
+
+> Section 19(2): replaced, on 1 October 2012, by section 211(3) of the Search and Surveillance Act 2012 (2012 No 24).
+
+> Section 19(2A): inserted, on 1 October 2012, by section 211(3) of the Search and Surveillance Act 2012 (2012 No 24).
+
+> Section 19(3): amended, on 7 August 2020, by section 135 of the Public Service Act 2020 (2020 No 40).
+
+### 20 Powers conferred by warrant
+
+\[Repealed\]
+
+> Section 20: repealed, on 1 October 2012, by section 211(4) of the Search and Surveillance Act 2012 (2012 No 24).
+
+### 21 Warrant to be produced
+
+\[Repealed\]
+
+> Section 21: repealed, on 1 October 2012, by section 211(4) of the Search and Surveillance Act 2012 (2012 No 24).
+
+### 22 Other duties of person who executes a warrant
+
+\[Repealed\]
+
+> Section 22: repealed, on 1 October 2012, by section 211(4) of the Search and Surveillance Act 2012 (2012 No 24).
+
+### 23 Prohibition on obstruction
+
+The owner, occupier, or person in charge, of a place that a person authorised pursuant to a warrant issued under section 19 enters for the purpose of searching shall not obstruct that person.
+
+### 24 Offences
+
+**(1)** Where a person—
+
+(a) avoids or attempts without reasonable excuse to avoid paying any levy payable by that person under a levy order; or
+
+(b) refuses or fails without reasonable excuse to collect any levy required to be collected by that person under a levy order; or
+
+(c) refuses or fails without reasonable excuse to pass on or dispose of any levy collected by that person in the manner prescribed by a levy order; or
+
+(d) refuses or fails without reasonable excuse to issue an invoice to any other person in the manner prescribed by a levy order; or
+
+(e) fails to keep or properly maintain records or accounts of any leviable activity carried on by that person sufficient to satisfy the requirements of any levy order; or
+
+(f) refuses or fails without reasonable excuse to submit (within the time required) any statement or return required to be submitted by that person under a levy order; or
+
+(g) submits any statement or return required to be submitted by that person under a levy order that to that person’s knowledge is false, incomplete, or misleading in a material particular; or
+
+(h) refuses or fails, without reasonable excuse, to comply with any requirement made under section 17(1),—
+
+that person commits an offence against this Act and is liable on conviction to a fine not exceeding $10,000.
+
+**(2)** Any offence against this Act committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by the employee’s or agent’s employer or principal if it is proved that the act or omission constituting the offence occurred with the employer’s or principal’s authority, permission, or consent.
+
+> Section 24(1): amended, on 1 July 2013, by section 413 of the Criminal Procedure Act 2011 (2011 No 81).
+
+### 25 Annual report and statements
+
+**(1)** As soon as is practicable after the end of a financial year during which a levy has been paid to an industry organisation under a levy order, the organisation shall prepare in respect of the year—
+
+(a) statements (relating only to money paid to the organisation under the order as levy, and assets acquired or built up with or out of, or by virtue of spending, money paid under the order as levy) of the organisation’s financial position at the end of the year; and
+
+(b) statements of the organisation’s receipt and expenditure of money paid as levy under the order; and
+
+(c) all other statements necessary to show fully—
+
+(i) the organisation’s financial position as aforesaid; and
+
+(ii) the financial results of all of the organisation’s activities involving the use of money paid to the organisation under the order as levy, or the use of assets acquired or built up with or out of, or by virtue of spending, money paid under the order as levy;—
+
+and the organisation shall ensure that the statements are audited within 90 days of the end of the year.
+
+**(2)** Notwithstanding any enactment to the contrary, an industry organisation that is required by subsection (1) to prepare statements in respect of any year shall include them in its annual report for that year.
+
+**(3)** Subject to subsection (4), an industry organisation that is required by subsection (2) to include statements in its annual report shall, as soon as the report has been completed, give a Minister a copy; and the Minister shall table it in the House of Representatives not later than 6 sitting days after receiving it.
+
+**(4)** Where an enactment other than this Act—
+
+(a) requires an industry organisation to give a Minister a copy of its annual report; and
+
+(b) requires the Minister to table it in the House of Representatives,—
+
+the organisation shall, to the extent that the enactment and subsection (3) impose different requirements, comply with that enactment and not that subsection.
+
+**(5)** An industry organisation that is required by subsection (2) to include statements in its annual report shall take all reasonable steps to ensure that all persons primarily liable for paying the levy to which the statements (or any of them) relate receive a copy—
+
+(a) as soon as is reasonably practicable after the report has been completed; and
+
+(b) whether or not they are members of the organisation.
+
+### 26 Repeal of other legislation relating to levies
+
+**(1)** Subject to subsection (2), the enactments specified in subsection (3) are hereby repealed, with effect on 1 January 1996.
+
+**(2)** A levy order imposing on a commodity a levy payable to an industry organisation may, with effect on a day earlier than 1 January 1996, repeal any enactment specified in subsection (3) that relates to the imposition on or in respect of the commodity (or a related commodity) of a levy payable to the organisation (or a predecessor of the organisation).
+
+**(3)** The enactments concerned are—
+
+(a) the Orchard Levy Act 1953:
+
+(b) the Vegetables Levy Act 1957:
+
+(c) the Vegetables Levy Amendment Act 1960:
+
+(d) the Berryfruit Levy Act 1967:
+
+(e) the Vegetables Levy Amendment Act 1972:
+
+(f) the Orchard Levy Amendment Act 1972:
+
+(g) the Vegetables Levy Amendment Act 1975:
+
+(h) the Vegetables Levy Amendment Act 1978:
+
+(i) \[Repealed\]
+
+(j) the Vegetables Levy Amendment Act 1980:
+
+(k) the Vegetables Levy Amendment Act 1981:
+
+(l) \[Repealed\]
+
+(m) section 44(2) of the Meat Act 1981:
+
+(ma) \[Repealed\]
+
+(mb) \[Repealed\]
+
+(mc) \[Repealed\]
+
+(n) \[Repealed\]
+
+(o) the Orchard Levy Amendment Act 1982:
+
+(p) the Berryfruit Levy Amendment Act 1983:
+
+(q) the Orchard Levy Amendment Act 1985:
+
+(r) the Orchard Levy Amendment Act 1987:
+
+(s) \[Repealed\]
+
+(t) the Berryfruit Levy Amendment Act 1988:
+
+(u) the Orchard Levy Amendment Act 1988.
+
+**(4)** When an enactment specified in subsection (3) is repealed by or under subsection (1) or subsection (2), so much of the Schedule of the Regulations (Disallowance) Act 1989 as relates to that Act shall then be deemed to have been repealed.
+
+> Section 26(3)(i): repealed, on 15 December 1995, by section 6(2) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(3)(l): repealed, on 15 December 1995, by section 5(2)(a) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(3)(ma): repealed, on 15 December 1995, by section 5(2)(a) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(3)(mb): repealed, on 15 December 1995, by section 5(2)(a) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(3)(mc): repealed, on 15 December 1995, by section 5(2)(a) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(3)(n): repealed, on 15 December 1995, by section 6(2) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(3)(s): repealed, on 15 December 1995, by section 7(2) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+> Section 26(4): amended, on 15 December 1995, by section 5(2)(b) of the Commodity Levies Amendment Act 1995 (1995 No 85).
+
+## Schedule 1AA Transitional, savings, and related provisions
+
+s 2A
+
+> Schedule 1AA: inserted, on 17 December 2016, by section 19 of the Statutes Amendment Act 2016 (2016 No 104).
+
+### Part 1 Provision relating to Part 5 of Statutes Amendment Act 2016
+
+#### Part 5 of Statutes Amendment Act 2016 has no effect in relation to levy orders made before its commencement
+
+This Act continues to apply, as if Part 5 of the Statutes Amendment Act 2016 were not in force, to a levy order made before the commencement of that Act.
+
+## Schedule Form of search warrant
+
+\[Repealed\]
+
+s 19(1)
+
+> Schedule: repealed, on 1 October 2012, by section 211(4) of the Search and Surveillance Act 2012 (2012 No 24).
+
+## Notes
+
+### 1 General
+
+This is a consolidation of the Commodity Levies Act 1990 that incorporates the amendments made to the legislation so that it shows the law as at its stated date.
+
+### 2 Legal status
+
+A consolidation is taken to correctly state, as at its stated date, the law enacted or made by the legislation consolidated and by the amendments. This presumption applies unless the contrary is shown.
+
+Section 78 of the Legislation Act 2019 provides that this consolidation, published as an electronic version, is an official version. A printed version of legislation that is produced directly from this official electronic version is also an official version.
+
+### 3 Editorial and format changes
+
+The Parliamentary Counsel Office makes editorial and format changes to consolidations using the powers under subpart 2 of Part 3 of the Legislation Act 2019. See also PCO editorial conventions for consolidations.
+
+### 4 Amendments incorporated in this consolidation
+
+Data and Statistics Act 2022 (2022 No 39): section 107(1)
+
+Secondary Legislation Act 2021 (2021 No 7): section 3
+
+Public Service Act 2020 (2020 No 40): section 135
+
+Statutes Amendment Act 2016 (2016 No 104): Part 5
+
+Commodity Levies Amendment Act 2015 (2015 No 10)
+
+Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): section 126
+
+Search and Surveillance Act 2012 (2012 No 24): section 211
+
+Criminal Procedure Act 2011 (2011 No 81): section 413
+
+Policing Act 2008 (2008 No 72): section 116(a)(ii)
+
+District Courts Amendment Act 1998 (1998 No 76): section 7
+
+Commodity Levies Amendment Act 1995 (1995 No 85)
+
+Commodity Levies Amendment Act 1993 (1993 No 151)

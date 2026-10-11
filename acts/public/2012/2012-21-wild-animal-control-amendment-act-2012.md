@@ -1,0 +1,44 @@
+---
+title: Wild Animal Control Amendment Act 2012
+identifier: act_public_2012_21
+number: 2012 No 21
+type: act
+subtype: Public Act
+jurisdiction: nz
+language: en
+date: 2012-02-24
+status: in_force
+source: https://www.legislation.govt.nz/act/public/2012/21/en/latest/
+archived_source: https://web.archive.org/web/20191015101336/http://www.legislation.govt.nz/act/public/2012/0021/latest/whole.html
+archived: 2019-10-15
+retrieved: 2026-10-11
+administered_by: Department of Conservation
+---
+
+# Wild Animal Control Amendment Act 2012
+
+The Parliament of New Zealand enacts as follows:
+
+## 1 Title
+
+This Act is the Wild Animal Control Amendment Act 2012.
+
+## 2 Commencement
+
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## 3 Principal Act amended
+
+This Act amends the Wild Animal Control Act 1977.
+
+## 4 Interpretation
+
+Paragraph (a)(ii) of the definition of **wild animal** in section 2(1) is amended by omitting “thar” and substituting “tahr”.
+
+## 5 Keeping of specified wild animals in captivity
+
+Section 12(5)(a) is amended by omitting “thar” and substituting “tahr”.
+
+<table><tr><th colspan="2">Legislative history</th></tr><tr><td>16 February 2012</td><td>Divided from Statutes Amendment Bill (No 2) (Bill 271–2) and third reading</td></tr><tr><td>24 February 2012</td><td>Royal assent</td></tr></table>
+
+This Act is administered by the Department of Conservation.

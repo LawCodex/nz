@@ -1,0 +1,1045 @@
+---
+title: New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
+identifier: act_public_2008_30
+number: 2008 No 30
+type: act
+subtype: Public Act
+jurisdiction: nz
+language: en
+date: 2008-05-22
+last_amended: 2025-11-27
+status: in_force
+source: https://www.legislation.govt.nz/act/public/2008/30/en/latest/
+archived_source: https://web.archive.org/web/20260321165312/https://www.legislation.govt.nz/act/public/2008/30/en/latest/
+archived: 2026-03-21
+retrieved: 2026-10-11
+administered_by: Land Information New Zealand
+---
+
+# New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
+
+## Note
+
+The Parliamentary Counsel Office has made editorial and format changes to this version using the powers under subpart 2 of Part 3 of the Legislation Act 2019.
+
+Note 4 at the end of this version provides a list of the amendments included in it.
+
+This Act is administered by Land Information New Zealand.
+
+The Parliament of New Zealand enacts as follows:
+
+## 1 Title
+
+This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, and may also be cited as—
+
+(a) the New Zealand Geographic Board Act 2008; or
+
+(b) Ngā Pou Taunaha o Aotearoa Act 2008.
+
+## 2 Commencement
+
+**(1)** This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.
+
+**(2)** An order under this section is secondary legislation (*see* Part 3 of the Legislation Act 2019 for publication requirements).
+
+<table><tr><td colspan="5"><strong>Legislation Act 2019 requirements for secondary legislation made under this section</strong></td></tr><tr><td><strong>Publication</strong></td><td></td><td>PCO must publish it on the legislation website and notify it in the <em>Gazette</em></td><td></td><td>LA19 s 69(1)(c)</td></tr><tr><td><strong>Presentation</strong></td><td></td><td>The Minister must present it to the House of Representatives</td><td></td><td>LA19 s 114, Sch 1 cl 32(1)(a)</td></tr><tr><td><strong>Disallowance</strong></td><td></td><td>It may be disallowed by the House of Representatives</td><td></td><td>LA19 ss 115, 116</td></tr><tr><td colspan="5"><em>This note is not part of the Act.</em></td></tr></table>
+
+> Section 2(1): sections 1–31 and 34–38 brought into force, on 1 November 2008, by clause 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008 (SR 2008/301).
+
+> Section 2(1): sections 32 and 33 brought into force, on 1 November 2009, by clause 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2009 (SR 2009/196).
+
+> Section 2(2): inserted, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021 (2021 No 7).
+
+## Part 1 General matters and key provisions relating to New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa
+
+### Subpart 1—Purpose, interpretation, and other general provisions
+
+#### 3 Purpose
+
+The purposes of this Act are to—
+
+(a) provide for—
+
+(i) the continuation of the New Zealand Geographic Board as the same body as that established under the New Zealand Geographic Board Act 1946, with the primary responsibility for naming geographic features and Crown protected areas; and
+
+(ii) the membership of the Board, so as to ensure adequate representation on the Board of community and government interests; and
+
+(iii) the administration of the Board; and
+
+(b) establish the jurisdiction of the Board; and
+
+(c) set out the Board’s powers, functions, and duties, in particular providing for the Board to assign, approve, alter, adopt, validate, or discontinue the use of official geographic names for geographic features within its jurisdiction, so as to achieve a co-ordinated and standardised approach to official geographic names; and
+
+(d) provide effective notification, consultation, and decision-making procedures for naming geographic features; and
+
+(e) provide the means for appropriate recognition to be accorded to cultural and heritage values associated with geographic features; and
+
+(f) enable certain administrative needs of government (including local government) to be met; and
+
+(g) provide for the Board’s role of reviewing proposals to assign official geographic names to Crown protected areas; and
+
+(h) ensure the provision of, and public access to, an authoritative record of official geographic names; and
+
+(i) repeal the New Zealand Geographic Board Act 1946.
+
+> Section 3(c): amended, on 27 November 2025, by section 102 of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### 4 Interpretation
+
+In this Act, unless the context otherwise requires,—
+
+**alternative official geographic names** means any 2 or more alternative official geographic names for the same geographic feature or Crown protected area
+
+**Antarctica** has the same meaning as in section 2(1) of the Antarctica Act 1960
+
+**Board** means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by section 7
+
+**Crown protected area** means—
+
+(a) land or an interest in land held under the Conservation Act 1987 for the purpose of a conservation park, ecological area, sanctuary area, or wilderness area, or for any other specified purpose, as provided for in Part 4 of that Act:
+
+(b) a government purpose reserve, historic reserve, nature reserve, recreation reserve, scenic reserve, or scientific reserve, as provided for in Part 3 of the Reserves Act 1977 (but not a reserve that is vested in a local authority):
+
+(c) a marine reserve, as defined in section 2 of the Marine Reserves Act 1971:
+
+(d) a national park, as defined in section 2 of the National Parks Act 1980
+
+**department** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
+
+**district** has the same meaning as in section 5 of the Local Government Act 2002
+
+**document** has the same meaning as in section 4 of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003
+
+**Gazetteer** means the New Zealand Gazetteer of Official Geographic Names required to be established and maintained by section 13
+
+**GEBCO Gazetteer** means the General Bathymetric Chart of the Oceans Gazetteer of Undersea Feature Names
+
+**geographic feature** and **feature** mean—
+
+(a) a natural feature such as a mountain, peak, valley, glen, forest, lagoon, swamp, creek, stream, river, ford, lake, glacier or ice feature, bay, island or harbour (including man-made features of the same type):
+
+(b) a railway or railway station, but not a railway feature such as a marshalling yard, transfer site, or track point location:
+
+(c) a place:
+
+(d) an undersea feature
+
+**local authority** has the same meaning as in section 5 of the Local Government Act 2002
+
+**locality** means an identifiable area within a local authority area, usually rural or partly rural in character
+
+**Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
+
+**official chart** and **official map** mean, as the case may be, a chart (such as a hydrographic chart) or map (such as a topographic map) published under Crown copyright, including any Crown-owned electronic database from which such a chart or map is produced
+
+**official document**—
+
+(a) means a published document created by a public office or by a local authority in the course of business; and
+
+(b) includes, in relation to documents published in New Zealand or prepared in New Zealand for publication outside New Zealand (whether or not created by a public office or by a local authority in the course of business),—
+
+(i) geographic and scientific publications and manuscripts; and
+
+(ii) publications intended for travellers or tourists
+
+**official geographic name**—
+
+(a) means—
+
+(i) the name of a geographic feature assigned, approved, or altered under this Act and publicly notified in accordance with this Act; or
+
+(ii) the names validated by section 35; and
+
+(b) includes—
+
+(i) the name of a Crown protected area reviewed and concurred with by the Board under subpart 3 of Part 2; and
+
+(ii) a name published in the *Gazette* under the New Zealand Geographic Board Act 1946; and
+
+(iii) the place names assigned, altered, or discontinued under a Treaty of Waitangi Settlement Act enacted before the commencement of this Act; and
+
+(iv) alternative official geographic names
+
+**place**—
+
+(a) means a city, town, village, site, area, or similar place; and
+
+(b) includes a locality and suburb; but
+
+(c) does not include a district, region, or ward of a local authority or a Crown protected area
+
+**public office** has the same meaning as in section 4 of the Public Records Act 2005
+
+**recorded name** means the name of a geographic feature that—
+
+(a) is not an official geographic name; but
+
+(b) appears in at least 2 publications or databases that are—
+
+(i) publicly available; and
+
+(ii) in the opinion of the Board, authoritative publications or databases
+
+**region** has the same meaning as in section 5 of the Local Government Act 2002
+
+**suburb** means an identifiable area within a local authority area, usually urban in character, with facilities such as those for education, transport, and shopping
+
+**te reo Māori** means the Māori language
+
+**tikanga Māori** means Māori customary values and practices
+
+**undersea feature** means a part of the ocean floor or seabed that has measurable relief or is delimited by relief, as, for example, set out in (but not limited to) the *Guidelines for the Standardization of Undersea Feature Names* (International Hydrographic Bureau, Monaco, April 2001)
+
+**ward** has the same meaning as in section 5 of the Local Electoral Act 2001.
+
+> Section 4 **alternative official geographic names**: inserted, on 12 December 2012, by section 4(1) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+> Section 4 **official geographic name** paragraph (a)(i): amended, on 12 December 2012, by section 4(2) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+> Section 4 **official geographic name** paragraph (b)(iii): amended, on 12 December 2012, by section 4(3) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+> Section 4 **official geographic name** paragraph (b)(iv): inserted, on 12 December 2012, by section 4(3) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+#### 5 Act to bind the Crown
+
+This Act binds the Crown.
+
+#### 6 Treaty of Waitangi (Te Tiriti o Waitangi)
+
+In order to recognise and respect the Crown’s responsibility to take appropriate account of the Treaty of Waitangi (Te Tiriti o Waitangi),—
+
+(a) section 11(1)(d) confers on the Board the function of collecting original Māori names of geographic features for recording on official charts and official maps; and
+
+(b) section 11(1)(e) confers on the Board the function of encouraging the use of original Māori names of geographic features on official charts and official maps; and
+
+(c) clause 1(2)(a) of Schedule 1 requires 2 persons to be appointed to the Board, on the recommendation of the Minister of Māori Affairs.
+
+### Subpart 2—New Zealand Geographic Board: its jurisdiction, powers, functions, and duties
+
+#### Board
+
+#### 7 Continuation of Board
+
+**(1)** The New Zealand Geographic Board established by section 3 of the New Zealand Geographic Board Act 1946 is continued with the name New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa.
+
+**(2)** The Board is a body corporate with perpetual succession.
+
+**(3)** Schedule 1 applies to the Board and its members.
+
+#### Jurisdiction and powers of Board
+
+#### 8 Extent of Board’s jurisdiction
+
+**(1)** The Board has jurisdiction to exercise its powers and to carry out its functions and duties under this Act or any other enactment in relation to geographic features and Crown protected areas within—
+
+(a) the territorial limits of New Zealand; and
+
+(b) the continental shelf, as defined in section 2(1) of the Continental Shelf Act 1964; and
+
+(c) the Ross Dependency, as defined in the Ross Dependency Boundaries and Government Order in Council 1923 and section 7(1) of the Antarctica (Environmental Protection) Act 1994.
+
+**(2)** In addition, the Board may exercise its powers and carry out its functions and duties under this Act, as far as they are relevant, in relation to those parts of Antarctica outside the Ross Dependency.
+
+**(3)** However, the Board does not have jurisdiction to assign a name to, or alter the name of, New Zealand.
+
+> Section 8(1)(c): amended, on 27 November 2025, by section 103 of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### 9 General powers of Board
+
+**(1)** For the purpose of performing its functions and duties, the Board has—
+
+(a) full capacity to undertake any activity, do any act, or enter into any transaction; and
+
+(b) for the purposes of paragraph (a), full rights, powers, and privileges.
+
+**(2)** Subsection (1) applies subject to this Act, other enactments, and the general law.
+
+#### Functions of Board
+
+#### 10 Principal functions of Board
+
+**(1)** The principal functions of the Board, in relation to any geographic feature within its jurisdiction, are to—
+
+(a) assign an official geographic name:
+
+(b) approve a recorded name as an official geographic name:
+
+(c) alter an official geographic name or recorded name, or the description of the position or spatial extent of the geographic feature to which the name applies, by—
+
+(i) substituting another name; or
+
+(ii) correcting the spelling of the name; or
+
+(iii) correcting the description of the position or spatial extent of the geographic feature to which the name applies:
+
+(d) discontinue the use of an official geographic name or recorded name:
+
+(e) investigate and determine the position or extent of the geographic feature in respect of which the Board—
+
+(i) assigns an official geographic name:
+
+(ii) approves a recorded name:
+
+(iii) alters the official geographic name or recorded name.
+
+**(2)** Any proposal to assign an official geographic name to, or alter the official geographic name of, a Crown protected area must be reviewed by the Board in accordance with sections 27 to 30.
+
+**(3)** This section and section 11 apply despite any other enactment, but do not limit the other provisions of this Act.
+
+Compare: 1946 No 3 s 9(1)
+
+> Section 10(1)(c): replaced, on 27 November 2025, by section 104(1) of the Statutes Amendment Act 2025 (2025 No 74).
+
+> Section 10(1)(e)(iii): amended, on 27 November 2025, by section 104(2) of the Statutes Amendment Act 2025 (2025 No 74).
+
+> Section 10(2): amended, on 27 November 2025, by section 104(3) of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### 11 Other functions of Board
+
+**(1)** In order to carry out its principal functions under section 10, the Board may—
+
+(a) adopt policies, rules, standards, protocols, guidelines, or similar instruments for carrying out its functions, including, but not limited to, rules, standards, protocols, or guidelines that it considers appropriate for the spelling and systematic designation of official geographic names:
+
+(b) examine cases of doubtful spelling of names and determine the spelling to be adopted on official charts or official maps:
+
+(c) investigate and determine the priority of the discovery of any geographic feature:
+
+(d) collect original Māori names for recording on official charts and official maps:
+
+(e) encourage the use of original Māori names on official charts and official maps:
+
+(f) seek advice from Te Taura Whiri i te Reo Māori (the Māori Language Commission) on the correct orthography of any Māori name:
+
+(g) undertake research into any proposal to assign, alter, or approve the official geographic name or recorded name of a geographic feature:
+
+(h) undertake other functions necessary to enable it to act effectively under this Act or any other enactment.
+
+**(2)** Without limiting section 260 of the Local Government Act 2002, the Board may alter the name of a district or region if, by resolution, a meeting of the relevant local authority—
+
+(a) consents to the alteration; or
+
+(b) requests the alteration.
+
+**(3)** If the Board carries out the function provided for by subsection (2), the provisions of sections 16 to 20 apply as if the district or region affected were a geographic feature.
+
+Compare: 1946 No 3 ss 8(1), 10
+
+> Section 11(1)(g): amended, on 27 November 2025, by section 105 of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### Duties of Board
+
+#### 12 Duties of Board
+
+The Board must—
+
+(a) administer the Gazetteer as provided for by section 13; and
+
+(b) in consultation with the Minister of Conservation, develop rules, standards, or guidelines for naming Crown protected areas; and
+
+(c) make inquiries and recommendations on any matters referred to it by the Minister; and
+
+(d) carry out any other functions or duties given to it or required by or under this Act or other enactment.
+
+Compare: 1946 No 3 s 8(1)(g), (2)
+
+#### Gazetteer
+
+#### 13 Gazetteer to be created by Board
+
+**(1)** The Board must establish and maintain a publicly available record known as the New Zealand Gazetteer of Official Geographic Names.
+
+**(2)** The Gazetteer must record all official geographic names and the relevant *Gazette* or statutory reference for each official geographic name.
+
+**(3)** The Gazetteer—
+
+(a) must include a record of—
+
+(i) the type of geographic feature or Crown protected area that is named; and
+
+(ii) the positional reference for the feature or area; and
+
+(b) may include—
+
+(i) any background information relevant to the history and name of the geographic feature or Crown protected area that is named; and
+
+(ii) information on the spatial extent of the geographic feature or Crown protected area that is named.
+
+#### Reporting duty
+
+#### 14 Annual report
+
+**(1)** The Board must report annually to the Minister on the performance of its functions and duties and the exercise of its powers.
+
+**(2)** The report must include a copy of the part of the audited accounts of Land Information New Zealand that relate to the Board’s expenditure for that year.
+
+**(3)** A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under section 44 of the Public Finance Act 1989.
+
+> Section 14(3): amended, on 1 July 2014, by section 104 of the Public Finance Amendment Act 2013 (2013 No 50).
+
+## Part 2 Naming of geographic features and Crown protected areas
+
+### Subpart 1—Process for naming geographic features
+
+#### Proposals
+
+#### 15 Proposals may be submitted to Board
+
+**(1)** Any person may submit a proposal to the Board, in relation to a geographic feature within the Board’s jurisdiction, to—
+
+(a) assign an official geographic name to the feature; or
+
+(b) alter the existing official geographic name or recorded name of the feature, for example, by—
+
+(i) substituting another name; or
+
+(ii) correcting the spelling of the name; or
+
+(c) discontinue the use of the official geographic name or recorded name of the feature; or
+
+(d) approve a recorded name as an official geographic name.
+
+**(2)** A proposal must—
+
+(a) be in the form provided for the purpose by the Board; and
+
+(b) meet the requirements specified by the Board; and
+
+(c) include the evidence necessary to support the proposal.
+
+**(3)** In this subpart, **proposal** means a proposal of the kinds described in subsection (1).
+
+> Section 15(1)(b): amended, on 27 November 2025, by section 106(1) of the Statutes Amendment Act 2025 (2025 No 74).
+
+> Section 15(1)(c): replaced, on 27 November 2025, by section 106(2) of the Statutes Amendment Act 2025 (2025 No 74).
+
+> Section 15(1)(d): inserted, on 27 November 2025, by section 106(2) of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### Process for approval of proposal
+
+#### 16 Notification of proposal
+
+**(1)** This section and sections 17 to 21 apply, in relation to a geographic feature within the territorial limits of New Zealand, to a proposal for an official geographic name—
+
+(a) submitted to the Board under section 15; or
+
+(b) made by the Board under section 10(1)(a) to (d) (unless the exceptions provided for under subpart 2 apply).
+
+**(2)** Subject to section 24, before the Board assigns, approves, or alters an official geographic name or recorded name, or discontinues the use of an official geographic name or recorded name, the Board must give public notice of the proposal—
+
+(a) in the *Gazette*; and
+
+(b) as soon as practicable after it has been gazetted, at least once—
+
+(i) in a newspaper, periodical publication, or other news publication that circulates nationally, or by any other practicable means (including electronic media); and
+
+(ii) in a publication that circulates particularly in the area relevant to the proposal.
+
+**(3)** The notices must, in each case, specify—
+
+(a) the geographic feature and the name proposed for it; and
+
+(b) the date by which submissions must be received by the Board (which must not be sooner than 1 month after the date of the public notice given under subsection (2)(b)); and
+
+(c) the manner in which submissions must be given; and
+
+(d) the contact details of the Board.
+
+Compare: 1946 No 3 s 12
+
+> Section 16(2): amended, on 27 November 2025, by section 107 of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### 17 Submissions
+
+A person making a submission on a proposal—
+
+(a) must state, with reasons, whether that person supports or objects to the proposal; and
+
+(b) may, if that person objects to the proposal, set out an alternative proposal or support the existing name, if any.
+
+Compare: 1946 No 3 s 13(1)
+
+#### 18 Board to consider submissions and decide on objections
+
+**(1)** As soon as is reasonably practicable after the closing date for submissions on a proposal, the Board must—
+
+(a) consider any submissions; and
+
+(b) in relation to any objections, decide whether to uphold those objections or reject them.
+
+**(2)** The Board may obtain any further information necessary to enable it to decide on an objection.
+
+#### 19 Determination by Board
+
+**(1)** The Board must make a determination on a proposal if it—
+
+(a) receives no objections on the proposal within the time notified; or
+
+(b) receives objections on a proposal and agrees with the objections.
+
+**(2)** The Board may obtain any further information necessary to enable it to determine a proposal.
+
+**(3)** The Board’s determination of a proposal is final.
+
+Compare: 1946 No 3 ss 13(2), 14
+
+#### 20 Determination by Minister
+
+**(1)** If the Board does not make a determination under section 19(1), it must report in writing to the Minister, setting out—
+
+(a) a summary of submissions; and
+
+(b) its decision on the proposal, together with its reasons for that decision.
+
+**(2)** The Minister, after making any inquiry he or she thinks fit, may determine the proposal by confirming, modifying, or rejecting the decision of the Board.
+
+**(3)** The Minister’s determination on a proposal is final.
+
+Compare: 1946 No 3 s 13
+
+#### 21 Publication of official geographic names
+
+**(1)** This section applies to determinations other than those that relate to the function of the Board to alter the name of a district or region, as provided for by section 11(2).
+
+**(2)** The Board must give public notice of a determination made under section 19 or 20—
+
+(a) in the *Gazette*; and
+
+(b) as soon as practicable after it has been gazetted, at least once—
+
+(i) in a newspaper, periodical publication, or other news publication that circulates nationally, or by any other practicable means (including electronic media); and
+
+(ii) if appropriate, in a publication that circulates particularly in the area relevant to the proposal.
+
+**(3)** The notices must, in each case, state—
+
+(a) that the name is the official geographic name for the specified geographic feature; and
+
+(b) the date when the determination takes effect, which must be—
+
+(i) the date of the *Gazette* notice; or
+
+(ii) a date specified in the *Gazette* notice, which must be as soon as practicable after the date of the *Gazette* notice.
+
+Compare: 1946 No 3 s 15
+
+#### 22 Alteration of name of local authority
+
+**(1)** This section applies if the Board carries out the function to alter the name of a district or region provided for under section 11(2).
+
+**(2)** Before the Board may give public notice of a determination to alter the name of a district or region, it must request the Minister to recommend to the Governor-General to make an Order in Council under section 260 of the Local Government Act 2002 to amend the name of the relevant local authority in Schedule 2 of that Act to give effect to the alteration.
+
+**(3)** An Order in Council must specify the date when the amendment takes effect, which must allow the Board sufficient time to give public notice as required by section 23(2)(a).
+
+#### 23 Notification of alteration of name of district or region
+
+**(1)** As soon as is reasonably practicable after the Governor-General has made an Order in Council in accordance with section 22(2), the Board must give public notice of the determination to alter the name of the relevant district or region.
+
+**(2)** The notice required by subsection (1) must—
+
+(a) be given in accordance with section 21(2); and
+
+(b) state the date on which the determination takes effect, which must be the date stated in the Order in Council made under section 22(2).
+
+### Subpart 2—Exceptions to certain notification requirements
+
+#### Circumstance where no public objection likely
+
+#### 24 Discretion not to give public notice
+
+**(1)** This section applies if the Board, in carrying out its functions under section 10(1)(b) or (d), is of the opinion that there is not likely to be public objection.
+
+**(2)** Without giving public notice under section 16, the Board may—
+
+(a) approve a recorded name as the official geographic name for a geographic feature, if there are no known alternative recorded names for that geographic feature:
+
+(b) discontinue the use of an official geographic name or recorded name for a geographic feature.
+
+**(3)** The Board must, as soon as is reasonably practicable, give public notice in accordance with section 21(2) of a decision made under subsection (2).
+
+> Section 24(2)(b): amended, on 27 November 2025, by section 108 of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### Features outside territorial limits of New Zealand
+
+#### 25 Geographic features outside territorial limits
+
+**(1)** The provisions of sections 16 to 20 do not apply if, in relation to a geographic feature that is outside the territorial limits of New Zealand, the Board carries out the function of—
+
+(a) assigning an official geographic name; or
+
+(b) altering an official geographic name; or
+
+(c) discontinuing an official geographic name or names to which section 26 applies.
+
+**(2)** However, the Board must—
+
+(a) consult with any relevant national and international naming authorities that it considers appropriate; and
+
+(b) as soon as is reasonably practicable, give public notice of the official geographic name or discontinued official geographic name in accordance with section 21(2).
+
+> Section 25(1)(c): inserted, on 27 November 2025, by section 109(1) of the Statutes Amendment Act 2025 (2025 No 74).
+
+> Section 25(2)(b): amended, on 27 November 2025, by section 109(2) of the Statutes Amendment Act 2025 (2025 No 74).
+
+#### 26 Adoption of existing names for undersea features
+
+**(1)** The Board may review, and, if appropriate, adopt as official geographic names the existing names of undersea features that are within the Board’s jurisdiction, for example, names published in the GEBCO Gazetteer or on official charts or official maps.
+
+**(2)** If the Board exercises its power under subsection (1),—
+
+(a) the provisions of sections 16 to 20 do not apply; but
+
+(b) the Board must, as soon as is reasonably practicable, give public notice of the names adopted under subsection (1) in accordance with section 21(2).
+
+### Subpart 3—Review of proposals for naming Crown protected areas
+
+#### Proposals notified and consulted on under another enactment
+
+#### 27 Process for review
+
+**(1)** This section applies if a proposal relating to a Crown protected area—
+
+(a) includes a proposal for naming that area; and
+
+(b) is made under an enactment that provides a power to assign a name to, or alter the name of, the Crown protected area, whether or not there is a requirement in that enactment for public notice of, and consultation on, the proposed name.
+
+**(2)** The person who makes the proposal must—
+
+(a) first comply with any requirements of the enactment in relation to the proposed name; and
+
+(b) then refer the proposed name, with supporting documentation, to the Board for review under subsection (3).
+
+**(3)** The Board must review a proposed name in accordance with the policies, rules, standards, or guidelines developed under section 12(b).
+
+#### 28 Process if Board concurs
+
+**(1)** If the Board concurs with a proposed name it reviews under section 27(3), and the enactment under which the Crown protected area is named requires the person making the proposal to notify the name in the *Gazette* or include it in an enactment, the Board—
+
+(a) need not give notice of the name in the *Gazette* in accordance with section 21(2)(a); but
+
+(b) must give notice of the name in accordance with section 21(2)(b).
+
+**(2)** However, if the relevant enactment does not provide for public notice of the name to be given or for the name to be included in a *Gazette* notice or in an enactment, the Board must give public notice of the name in accordance with section 21(2).
+
+#### 29 Process if Board does not concur
+
+**(1)** Despite the requirements of any other enactment, if the Board does not concur with a proposed name reviewed under section 27(3), it must refer the proposed name and the recommendations of the Board to the Minister of Conservation for final determination.
+
+**(2)** As soon as is reasonably practicable,—
+
+(a) the Minister of Conservation must advise the Board of that determination; and
+
+(b) the Board must give public notice of that determination in accordance with section 21(2).
+
+#### Proposals not notified and consulted on under another enactment
+
+#### 30 Process for review if public notice not given
+
+**(1)** This section applies to a proposal to assign a name to, or alter the name of, a Crown protected area if—
+
+(a) there is no statutory requirement for public notice and consultation in relation to a proposed name; and
+
+(b) the person making the proposal has not otherwise given public notice and undertaken consultation on the proposed name.
+
+**(2)** The person who makes the proposal must refer the proposed name to the Board.
+
+**(3)** The Board must—
+
+(a) give public notice in accordance with section 16; and
+
+(b) receive any submissions made in accordance with section 17; and
+
+(c) forward any submissions to the person making the proposal.
+
+**(4)** The person who makes the proposal must—
+
+(a) consider any submissions and decide whether to proceed, either with the original proposed name or with a different name; and
+
+(b) if that person decides to proceed, refer the proposed name, with supporting documentation, to the Board for review in accordance with section 27(3).
+
+#### Status of names of Crown protected areas
+
+#### 31 Names of Crown protected areas
+
+A name assigned to, or altered for, a Crown protected area in accordance with this subpart is the official geographic name of that area.
+
+#### Requirement to notify Board if name discontinued
+
+> Heading: inserted, on 12 December 2012, by section 5 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+#### 31A Requirement to notify Board if name of Crown protected area discontinued
+
+**(1)** The Minister of Conservation must, as soon as is reasonably practicable, notify the Board if the name assigned to a Crown protected area in accordance with this subpart is discontinued—
+
+(a) because the area—
+
+(i) has ceased to be a Crown protected area; or
+
+(ii) has been included in another Crown protected area; or
+
+(b) for any other reason.
+
+**(2)** On receiving notification under subsection (1), the Board must—
+
+(a) remove the name of the Crown protected area from the list of official geographic names in the Gazetteer; and
+
+(b) give public notice of that discontinuation in accordance with section 21(2).
+
+> Section 31A: inserted, on 12 December 2012, by section 5 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+> Section 31A(2): replaced, on 27 November 2025, by section 110 of the Statutes Amendment Act 2025 (2025 No 74).
+
+## Part 3 Miscellaneous provisions
+
+### Use of official geographic names
+
+### 32 Official geographic names must be used
+
+**(1)** If there is an official geographic name for a geographic feature or Crown protected area, that name must be used in all official documents.
+
+**(1A)** If 2 or more alternative official geographic names exist for the same geographic feature or Crown protected area, the use of any 1 of those names, or all of those names, is sufficient to comply with subsection (1).
+
+**(2)** However, subsection (1) does not apply if an official document containing a name other than an official geographic name states that the particular name is not the official geographic name of the geographic feature or Crown protected area to which it applies.
+
+Compare: 1946 No 3 s 18(1)
+
+> Section 32(1A): inserted, on 12 December 2012, by section 6 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110).
+
+### 33 Injunction may be granted by Court
+
+**(1)** The High Court may, on the application of the Board, grant an injunction to prevent a person from publishing a name in an official document in breach of section 32.
+
+**(2)** The High Court may rescind or vary an injunction granted under this section.
+
+**(3)** If the Board applies to the High Court for the grant of an interim injunction, the Court must not,—
+
+(a) as a condition of granting an interim injunction, require the Board to give an undertaking as to damages; or
+
+(b) take into account the fact that the Board is not required to give an undertaking as to damages.
+
+### Savings
+
+### 34 Rights of local authorities not affected
+
+If the Board exercises any of its functions in relation to the naming of a geographic feature under this Act,—
+
+(a) the rights and obligations of a local authority in respect of the geographic feature are not affected; and
+
+(b) legal proceedings—
+
+(i) are not invalidated solely because of the exercise of the function; and
+
+(ii) may be continued or commenced under the official geographic name approved, assigned, or altered under this Act.
+
+Compare: 1946 No 3 s 16
+
+### 35 Validation of certain names
+
+**(1)** In relation to actions taken before the commencement of this Act, this section applies to every name—
+
+(a) that the Board has assigned to, or altered for, a geographic feature in Antarctica, whether or not that name has been gazetted; and
+
+(b) assigned to, or altered for, a Crown protected area under an enactment, whether or not the proposed name—
+
+(i) was publicly notified and consulted on; or
+
+(ii) gazetted under, or included in, the enactment.
+
+**(2)** The names referred to in subsection (1) are official geographic names and as valid as if they had been assigned or altered in accordance with this Act.
+
+**(3)** The Board must, as soon as is reasonably practicable after the commencement of this Act, publish in the *Gazette* the official geographic names referred to in subsection (1) that have not previously been gazetted.
+
+Compare: 1946 No 3 s 17
+
+### Proof of status as official geographic name
+
+### 36 Publication in *Gazette*
+
+A copy of a *Gazette* notice published under this Act is conclusive evidence of the official geographic name of the geographic feature or Crown protected area to which it applies.
+
+Compare: 1946 No 3 s 15(3)
+
+### Repeal and amendments
+
+### 37 Repeal
+
+The New Zealand Geographic Board Act 1946 is repealed.
+
+### 38 Consequential amendments
+
+The Acts specified in Schedule 2 are amended in the manner indicated in that schedule.
+
+## Schedule 1 Appointments and other procedures
+
+s 7(3)
+
+### *Membership*
+
+#### 1 Members of Board
+
+**(1)** The Board must consist of—
+
+(a) 8 persons appointed by the Minister in accordance with subclauses (2) and (3); and
+
+(b) the Surveyor-General; and
+
+(c) the official from the department with the primary responsibility for setting hydrographic information standards for New Zealand.
+
+**(2)** The Minister, by notice in the *Gazette*, must appoint,—
+
+(a) on the recommendation of the Minister of Māori Affairs, 2 persons as representatives of Māori who—
+
+(i) have a knowledge of tikanga Māori and te reo Māori; and
+
+(ii) are able to provide advice in relation to the naming of geographic features and Crown protected areas for which tikanga Māori or te reo Māori is relevant; and
+
+(b) 1 person nominated by Te Rūnanga o Ngāi Tahu (as established under section 6 of Te Runanga o Ngai Tahu Act 1996); and
+
+(c) 1 person nominated by the New Zealand Geographical Society Inc; and
+
+(d) 1 person nominated by the Federated Mountain Clubs of NZ Inc; and
+
+(e) 1 person nominated by Local Government New Zealand; and
+
+(f) 2 other persons.
+
+**(3)** The members of the Board must be persons who, in the opinion of the Minister, have special knowledge or qualifications that are relevant to the purposes, functions, and duties of the Board.
+
+Compare: 1946 No 3 s 3(2)
+
+#### 2 Term of appointment
+
+**(1)** Each member of the Board, other than the Surveyor-General and the official from the department appointed under clause 1(1)(c),—
+
+(a) holds office for a term not exceeding 3 years, as specified in the notice of appointment; and
+
+(b) may be reappointed to the Board; and
+
+(c) even though the member’s term of appointment may have expired, continues in office until his or her successor is appointed; and
+
+(d) may resign his or her office by notice in writing addressed to the secretary of the Board; and
+
+(e) may be removed from office by the Minister for inability to perform the functions of office, insolvency, neglect of duty, or misconduct.
+
+**(2)** A Board member to whom subclause (1)(d) applies is not entitled to compensation or other payment or benefit relating to his or her resignation or removal from office.
+
+Compare: 1946 No 3 s 3(3), (5)
+
+#### 3 Vacancies
+
+**(1)** If a member dies, resigns, or is removed from office,—
+
+(a) any appointment to fill the vacancy must be made in the manner in which the appointment of that member was originally made; and
+
+(b) the person appointed to fill the vacancy is appointed for the remainder of the term for which his or her predecessor was appointed.
+
+**(2)** The powers, functions, and duties of the Board are not affected by a vacancy in its membership.
+
+Compare: 1946 No 3 s 3(4)
+
+#### 4 Chairperson of Board
+
+**(1)** The Surveyor-General is the chairperson of the Board.
+
+**(2)** The chairperson must preside at all meetings of the Board at which he or she is present.
+
+**(3)** However, the Surveyor-General, if not able to be present at a meeting, must authorise an officer of Land Information New Zealand to attend the meeting as his or her deputy for the purpose of that meeting.
+
+**(4)** If subclause (3) applies, the authorised deputy—
+
+(a) must act as the chairperson for that meeting; and
+
+(b) has and may exercise all the powers and functions of the chairperson for the purpose of that meeting.
+
+**(5)** The fact that a person attends a meeting as the deputy of the Surveyor-General is sufficient evidence of his or her authority to do so.
+
+Compare: 1946 No 3 s 4
+
+#### 5 Secretary and committees may be appointed
+
+The Board may appoint—
+
+(a) an official of Land Information New Zealand nominated by the Chief Executive of the department in consultation with the Surveyor-General, to be the secretary of the Board; and
+
+(b) committees, consisting of 2 or more members of the Board and other persons as it thinks fit, to advise the Board on specified matters such as the naming of undersea features or geographical features in Antarctica; and
+
+(c) if any committee is appointed, the chair of that committee.
+
+Compare: 1946 No 3 s 7
+
+#### *Power of Board to delegate*
+
+#### 6 Delegation of powers and functions by Board
+
+**(1)** The Board may delegate any of its powers, functions, and duties under this Act (except this power of delegation), either generally or specifically, by resolution, to—
+
+(a) a member of the Board:
+
+(b) the secretary of the Board (if any) appointed under clause 5:
+
+(c) an employee of the department holding a specified office or appointment or other suitable person:
+
+(d) a committee appointed by the Board.
+
+**(2)** A delegation—
+
+(a) must be in writing to the person or committee; and
+
+(b) is revocable in writing at any time; and
+
+(c) does not affect or prevent the exercise of a function or power by the Board or affect the responsibility of the Board for the actions of the person or committee acting under the delegation; and
+
+(d) is not affected by a change in the membership of the Board.
+
+**(3)** A delegate to whom the functions or powers of the Board are delegated—
+
+(a) may, unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions, and with the same effect as if the delegate were the Board; and
+
+(b) may delegate the function or power only—
+
+(i) with the prior written consent of the Board; and
+
+(ii) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
+
+**(4)** A delegate who purports to perform a function or exercise a power under a delegation—
+
+(a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
+
+(b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
+
+#### *Procedure of Board*
+
+#### 7 Procedure generally
+
+Unless otherwise expressly provided by or under this Act, the Board may regulate its own procedure.
+
+Compare: 1946 No 3 s 5(6)
+
+#### 8 Meetings of Board
+
+**(1)** The Board or the chairperson must appoint the date, time, and place for meetings of the Board.
+
+**(2)** A quorum for a meeting of the Board is 5 members.
+
+Compare: 1946 No 3 s 5(1), (2)
+
+#### 9 Special meetings of Board
+
+**(1)** The chairperson of the Board must convene a special meeting of the Board if requested in writing to do so by at least 5 members of the Board.
+
+**(2)** Written notice must be given of the special meeting in accordance with notice provisions adopted by the Board under clause 7.
+
+**(3)** The notice given under subclause (2) must include a statement of the business to be transacted.
+
+**(4)** Only the business stated in the notice may be transacted at the special meeting.
+
+#### 10 Voting at meetings
+
+**(1)** All questions arising at a meeting of the Board must be determined by a majority of the votes cast by the members present at the meeting.
+
+**(2)** Each member of the Board present at a meeting has 1 vote.
+
+**(3)** However, the chairperson of the meeting has a deliberative vote, and in the case of an equality of votes, also has a casting vote.
+
+Compare: 1946 No 3 s 5(3), (4)
+
+#### 11 Fees and allowances
+
+**(1)** The members of the Board (other than the Surveyor-General and the official appointed under clause 1(1)(c)) and any committee appointed by the Board are entitled to be paid—
+
+(a) fees as determined by the Minister in accordance with the fees framework; and
+
+(b) in accordance with the fees framework, reimbursing allowances or actual and reasonable expenses incurred in undertaking the functions and duties of the Board.
+
+**(2)** In subclause (1), **fees framework** means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+
+Compare: 1946 No 3 s 6
+
+## Schedule 2 Consequential amendments
+
+s 38
+
+### Conservation Act 1987 (1987 No 65)
+
+Section 18(3): repeal and substitute:
+
+**(3)** The public notice referred to in subsection (2) must specify the proposed name for the proposed park or area.
+
+**(3A)** After considering any submissions received in response to the public notice given under subsection (2), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under section 27(3) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and the provisions of sections 28 to 31 of that Act apply.
+
+**(3B)** The area for which a name is specified and determined under subsections (3) and (3A) must be known by its official geographic name.
+
+### Local Government Act 2002 (2002 No 84)
+
+Section 260(1)(b): add “; or”.
+
+Section 260(1): add:
+
+(c) the name of a district or region of a local authority described in Part 1 or Part 2 of Schedule 2 is altered under section 11(2) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
+
+### Marine Reserves Act 1971 (1971 No 15)
+
+Section 5(1)(c): insert after subparagraph (iii):
+
+(iiia) states the proposed name of the proposed marine reserve:
+
+Section 5: insert after subsection (7):
+
+**(7A)** Before the decision of the Minister becomes final under subsection (7), the proposal must, to the extent that it relates to the proposed name of the proposed marine reserve, be referred to the New Zealand Geographic Board under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+
+### National Parks Act 1980 (1980 No 66)
+
+Section 7: insert after subsection (2):
+
+**(2A)** Before making a recommendation under subsection (1)(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+
+### Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)
+
+Section 270: repeal.
+
+### Official Information Act 1982 (1982 No 156)
+
+Schedule 1: omit “New Zealand Geographic Board” and substitute “New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa”.
+
+### Ombudsmen Act 1975 (1975 No 9)
+
+Part 2 of Schedule 1: insert “New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa” after “The New Zealand Game Bird Habitat Trust Board”.
+
+### Reserves Act 1977 (1977 No 66)
+
+Section 16: insert after subsection (10):
+
+**(10A)** Before the Minister gives notice in the *Gazette* under subsection (10), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+
+Section 52: insert after subsection (1):
+
+**(1A)** Before the Minister gives notice in the *Gazette* under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+
+## Notes
+
+### 1 General
+
+This is a consolidation of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 that incorporates the amendments made to the legislation so that it shows the law as at its stated date.
+
+### 2 Legal status
+
+A consolidation is taken to correctly state, as at its stated date, the law enacted or made by the legislation consolidated and by the amendments. This presumption applies unless the contrary is shown.
+
+Section 78 of the Legislation Act 2019 provides that this consolidation, published as an electronic version, is an official version. A printed version of legislation that is produced directly from this official electronic version is also an official version.
+
+### 3 Editorial and format changes
+
+The Parliamentary Counsel Office makes editorial and format changes to consolidations using the powers under subpart 2 of Part 3 of the Legislation Act 2019. See also PCO editorial conventions for consolidations.
+
+### 4 Amendments incorporated in this consolidation
+
+Statutes Amendment Act 2025 (2025 No 74): Part 28
+
+Secondary Legislation Act 2021 (2021 No 7): section 3
+
+Public Finance Amendment Act 2013 (2013 No 50): section 104
+
+New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Amendment Act 2012 (2012 No 110)
+
+New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2009 (SR 2009/196)
+
+New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008 (SR 2008/301)
