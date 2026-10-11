@@ -15,8 +15,6 @@ note: Text as set out in Schedule 1 of the Treaty of Waitangi Act 1975 (English 
 
 # The Treaty of Waitangi / Te Tiriti o Waitangi
 
-s 2
-
 ## (The Text in English)
 
 HER MAJESTY VICTORIA Queen of the United Kingdom of Great Britain and Ireland regarding with Her Royal Favour the Native Chiefs and Tribes of New Zealand and anxious to protect their just Rights and Property and to secure to them the enjoyment of Peace and Good Order has deemed it necessary in consequence of the great number of Her Majesty’s Subjects who have already settled in New Zealand and the rapid extension of Emigration both from Europe and Australia which is still in progress to constitute and appoint a functionary properly authorized to treat with the Aborigines of New Zealand for the recognition of Her Majesty’s Sovereign authority over the whole or any part of those islands—Her Majesty therefore being desirous to establish a settled form of Civil Government with a view to avert the evil consequences which must result from the absence of the necessary Laws and Institutions alike to the native population and to Her subjects has been graciously pleased to empower and to authorize me William Hobson a Captain in Her Majesty’s Royal Navy Consul and Lieutenant Governor of such parts of New Zealand as may be or hereafter shall be ceded to her Majesty to invite the confederated and independent Chiefs of New Zealand to concur in the following Articles and Conditions.

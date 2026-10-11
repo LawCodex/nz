@@ -118,6 +118,7 @@ def treaty(md):
     fmd = re.search(r"^---\n(.*?)\n---\n", md, re.S)
     src = yaml.safe_load(fmd.group(1))
     body = m.group(1).strip()
+    body = re.sub(r"^s \d+\n+", "", body)  # empowering-provision reference ("s 2")
     body = re.sub(r"^(#+) ", lambda x: "#" * max(2, len(x.group(1)) - 1) + " ", body, flags=re.M)
     front = {
         "title": "The Treaty of Waitangi / Te Tiriti o Waitangi",

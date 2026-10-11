@@ -9,13 +9,15 @@ contains the Māori text) · **Generated:** {date}
 > **Important — provenance and currency.** The official site, legislation.govt.nz, is now behind an
 > AWS WAF JavaScript challenge, and its API (api.legislation.govt.nz) requires a personal API key
 > issued on request by the Parliamentary Counsel Office. Neither was available to this build, so the
-> texts here were taken from the **Internet Archive (Wayback Machine) captures of the official
-> legislation.govt.nz "whole Act" pages** (the classic `…/latest/whole.html` view). The text of each
-> file is the official PCO consolidation *as it stood when the page was archived*: every file records
-> the consolidation date (`last_amended`), the capture date (`archived`) and the exact capture URL
-> (`archived_source`). Captures range from {archived_lo} to {archived_hi} (median {archived_med}).
-> Amendments made after a file's capture, and Acts passed after the classic site was retired in early
-> 2026, are **not** reflected. Always check the official version on
+> texts were taken from **Internet Archive (Wayback Machine) captures of the official
+> legislation.govt.nz pages**: the current site's `/act/<subtype>/<year>/<number>/en/latest/` page
+> (which embeds the full PCO text) when archived, otherwise the classic site's
+> `…/latest/whole.html` page. For each Act the most recent usable capture is used. Each file is the
+> official PCO consolidation *as it stood when the page was archived*: the front matter records the
+> consolidation date (`last_amended`), the capture date (`archived`) and the exact capture URL
+> (`archived_source`). Captures range from {archived_lo} to {archived_hi} (median {archived_med});
+> some older captures are stale, so amendments (or repeals) made after a file's `archived` date are
+> **not** reflected. Always check the official version on
 > [legislation.govt.nz](https://www.legislation.govt.nz) before relying on a text.
 
 ## What is covered
@@ -36,16 +38,16 @@ Key constitutional enactments (New Zealand has no single codified constitution):
 - Treaty of Waitangi / Te Tiriti o Waitangi (English and Māori texts, from Schedule 1 of the Treaty of
   Waitangi Act 1975) — `constitution/treaty-of-waitangi.md`
 - Also: Electoral Act 1993, Senior Courts Act 2016, Legislation Act 2019, Imperial Laws Application
-  Act 1988, Treaty of Waitangi Act 1975, Parliamentary Privilege Act 2014, etc., under
-  `acts/public/`.
+  Act 1988, Treaty of Waitangi Act 1975, etc., under `acts/public/`.
 
 ## What is NOT covered (gaps)
 
 - **Acts with no usable archived capture.** Coverage depends on what the Internet Archive crawled;
-  some in-force Acts (mostly small, old, local or private Acts) have no capture of their whole-Act
-  page and are missing. {failed} listed captures could not be retrieved.
-- **Changes since capture**: amendments after each file's `archived` date and Acts enacted in 2026
-  after the classic site was retired.
+  in-force Acts whose pages were never archived are missing (e.g. the Parliamentary Privilege Act
+  2014). This is not a complete set of the Acts in force. {failed} listed captures could not be
+  retrieved.
+- **Changes since capture**: amendments or repeals after each file's `archived` date; an Act
+  repealed after its last capture is still included here.
 - **Repealed Acts**, Bills, Supplementary Order Papers and amendment papers.
 - **Secondary legislation** (regulations, orders, rules, bylaws, notices): not included — tens of
   thousands of instruments, many agency-published, and too sparsely archived to be reliable.
@@ -56,6 +58,7 @@ Key constitutional enactments (New Zealand has no single codified constitution):
 - Official: Parliamentary Counsel Office, [New Zealand Legislation](https://www.legislation.govt.nz)
   (`source` in each file's front matter points to the official latest version).
 - Text actually used: [Internet Archive Wayback Machine](https://web.archive.org/) captures of
+  `https://www.legislation.govt.nz/act/<subtype>/<year>/<number>/en/latest/` and
   `https://www.legislation.govt.nz/act/<subtype>/<year>/<number>/latest/whole.html`, enumerated
   with the [CDX API](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server).
 - Official API (requires a key from the PCO, `contact@pco.govt.nz`):
@@ -97,7 +100,7 @@ The table of contents is omitted.
 ```sh
 pip install -r scripts/requirements.txt
 cd scripts
-python list_items.py      # enumerate archived whole-Act pages via the Wayback CDX API
+python list_items.py      # enumerate archived Act pages via the Wayback CDX API
 python fetch.py           # download captures (cached gzipped in ../../_raw/nz/html/)
 python build.py           # convert to Markdown (skips repealed Acts)
 python make_readme.py     # refresh this README's counts
