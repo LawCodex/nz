@@ -34,7 +34,7 @@ def fetch_one(key, item):
         data = r.content
         if data[:2] == b"\x1f\x8b":
             data = gzip.decompress(data)
-        if b'id="legislation"' not in data:
+        if b'id="legislation"' not in data and b'class="act"' not in data:
             last = "not a legislation page"
             continue
         os.makedirs(os.path.dirname(path), exist_ok=True)

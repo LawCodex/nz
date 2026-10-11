@@ -52,42 +52,52 @@ def esc_line_start(line):
     return line
 
 
-def inline(el, in_table=False):
-    """Render an element's inline content to Markdown (text, emphasis, links reduced to text)."""
+def inline(el, in_table=False, html=False):
+    """Render an element's inline content to Markdown (or to minimal HTML when html=True)."""
+    e = htmlesc if html else esc
     out = []
     if el.text:
-        out.append(esc(el.text))
+        out.append(e(el.text))
     for ch in el:
         if not isinstance(ch.tag, str):
             if ch.tail:
-                out.append(esc(ch.tail))
+                out.append(e(ch.tail))
             continue
         tag = ch.tag.lower()
         cl = classes(ch)
         if tag == "br":
-            out.append("<br>" if in_table else "  \n")
+            out.append("<br>" if (in_table or html) else "  \n")
         elif tag in ("em", "i") or "italic" in cl:
-            inner = inline(ch, in_table).strip()
-            out.append(f"*{inner}*" if inner else "")
+            inner = inline(ch, in_table, html).strip()
+            if inner:
+                out.append(f"<em>{inner}</em>" if html else f"*{inner}*")
         elif tag in ("strong", "b") or "def-term" in cl or "bold" in cl:
-            inner = inline(ch, in_table).strip()
-            out.append(f"**{inner}**" if inner else "")
+            inner = inline(ch, in_table, html).strip()
+            if inner:
+                out.append(f"<strong>{inner}</strong>" if html else f"**{inner}**")
         elif tag in ("sup", "sub"):
-            out.append(f"<{tag}>{inline(ch, in_table)}</{tag}>")
+            out.append(f"<{tag}>{inline(ch, in_table, html)}</{tag}>")
         elif tag == "img":
             src = absurl(ch.get("src"))
             alt = ch.get("alt") or "image"
-            out.append(f"![{esc(alt)}]({src})")
+            out.append(f'<img src="{htmlesc(src)}" alt="{htmlesc(alt)}">' if html else f"![{esc(alt)}]({src})")
         elif tag in ("script", "style"):
             pass
         else:
-            out.append(inline(ch, in_table))
+            if html and tag in ("p", "div") and out and not out[-1].endswith("<br>"):
+                out.append("<br>")
+            out.append(inline(ch, in_table, html))
         if ch.tail:
-            out.append(esc(ch.tail))
+            out.append(e(ch.tail))
     return "".join(out)
 
 
+def htmlesc(t):
+    return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def clean_inline(s):
+    s = s.replace("\ufeff", "")
     s = re.sub(r"[ \t\r\n ]+", " ", s.replace("  \n", "\u0000"))
     s = s.replace("\u0000", "  \n")
     s = re.sub(r" *  \n *", "  \n", s)
@@ -126,7 +136,8 @@ def table_to_md(tbl):
             for a in ("colspan", "rowspan"):
                 if c.get(a) and c.get(a) != "1":
                     attrs += f' {a}="{c.get(a)}"'
-            txt = clean_inline(inline(c, True)).replace("  \n", "<br>")
+            txt = clean_inline(inline(c, True, html=True))
+            txt = re.sub(r"^(<br>)+|(<br>)+$", "", txt)
             tag = "th" if c.tag == "th" else "td"
             out.append(f"<{tag}{attrs}>{txt}</{tag}>")
         out.append("</tr>")
@@ -309,6 +320,9 @@ def convert(raw_html, base_url=None):
     _BASE[0] = base_url or (SITE + "/")
     doc = lhtml.fromstring(raw_html)
     leg = doc.xpath("//div[@id='legislation']")
+    if not leg:
+        # 2007-2010 site layout: the act div sits directly in #Content
+        leg = [a.getparent() for a in doc.xpath("(//div[@class='act' or @class='regulation'])[1]")]
     if not leg:
         raise ValueError("no #legislation container")
     leg = leg[0]

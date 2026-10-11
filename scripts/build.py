@@ -98,7 +98,7 @@ def build_one(key, html_path):
         "archived": f"{ts[0:4]}-{ts[4:6]}-{ts[6:8]}",
         "retrieved": TODAY,
     }
-    if meta["admin"]:
+    if meta["admin"].startswith("This "):
         front["administered_by"] = re.sub(r"^This \w+ is administered by (the )?|\.$", "", meta["admin"])
     front = {k: v for k, v in front.items() if v not in (None, "")}
     md = fm(front) + f"\n# {title}\n\n" + body + "\n"
